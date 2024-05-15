@@ -40,3 +40,34 @@
 .read-the-docs {
   color: #888;
 }
+
+
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+/* Additional styles for the card */
+.card {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 300px;
+  padding: 20px;
+  text-align: center;
+}
+
+.card img {
+  border-radius: 5px;
+  max-width: 100%;
+}
+
+.song-details {
+  margin-top: 15px;
+}
